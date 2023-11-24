@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <title>Formulario</title>
     <link rel="stylesheet" href=".\css\styles.css">
- 
-    </style>
 </head>
     <body>
         <div>
